@@ -1,0 +1,12 @@
+node_modules
+dist
+.next
+.vinext
+.wrangler
+update
+.env*
+*.pem
+asset-audit.json
+browser-audit.json
+.DS_Store
+**/.DS_Store
