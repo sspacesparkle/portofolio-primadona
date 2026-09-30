@@ -1,0 +1,75 @@
+.cnf-collage-item {
+  margin-top: clamp(1rem, 2vw, 2rem);
+}
+
+.cnf-collage {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: clamp(4px, .6vw, 10px);
+}
+
+.cnf-collage.is-mixed {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.cnf-collage.is-trio {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.cnf-collage a {
+  display: block;
+  aspect-ratio: 4 / 5;
+  overflow: hidden;
+  background: #171717;
+}
+
+.cnf-collage.is-mixed a {
+  aspect-ratio: 4 / 3;
+}
+
+.cnf-collage.is-mixed a.is-portrait {
+  aspect-ratio: 4 / 5;
+}
+
+.cnf-collage a.is-portrait img {
+  object-fit: cover;
+}
+
+.cnf-collage a.is-face-lower img {
+  object-position: center top;
+}
+
+.cnf-collage img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transition: transform .3s ease;
+}
+
+.cnf-collage a:hover img {
+  transform: scale(1.025);
+}
+
+.cnf-collage a:focus-visible {
+  outline: 3px solid currentColor;
+  outline-offset: 3px;
+}
+
+@media (max-width: 767px) {
+  .cnf-collage,
+  .cnf-collage.is-trio {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .cnf-collage.is-trio a:last-child {
+    grid-column: span 2;
+    aspect-ratio: 16 / 10;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cnf-collage img {
+    transition: none;
+  }
+}

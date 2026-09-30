@@ -1,0 +1,18 @@
+.contact-direct-links{display:flex;flex-wrap:wrap;gap:1rem;align-items:center}
+.contact-direct-link{display:flex;align-items:center;gap:.75rem;padding:1rem;border:1px solid currentColor;border-radius:0;color:inherit;text-decoration:none;transition:background-color .2s,color .2s}
+.contact-direct-link svg{width:1.5rem;height:1.5rem;flex:none}
+.contact-sound{position:fixed;top:3.75rem;right:1.5rem;z-index:10000}
+.contact-sound audio{display:none}
+.contact-sound-toggle{display:grid;place-items:center;width:48px;height:48px;border:1px solid #c6ff1b;border-radius:50%;background:#171717;color:#c6ff1b;cursor:pointer}
+.contact-sound-toggle svg{width:24px;height:24px}
+.contact-sound-toggle:focus-visible{outline:2px solid #c6ff1b;outline-offset:4px}
+.contact-sound-toggle .sound-waves{display:none}
+.contact-sound-toggle[aria-pressed="true"] .sound-waves{display:block}
+.contact-sound-toggle[aria-pressed="true"] .sound-off{display:none}
+.contact-direct-link:hover,.contact-direct-link:focus-visible{background:#c6ff1b;color:#171717}
+.contact-direct-link:focus-visible{outline:2px solid currentColor;outline-offset:4px}
+.contact-quotes{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:3rem}
+.contact-quotes blockquote{margin:0;padding:0;border:0}
+.contact-quotes p{margin:0 0 1.5rem}
+.contact-quotes cite{font-style:normal}
+@media(max-width:767px){.contact-quotes{grid-template-columns:1fr;gap:2.5rem}.contact-direct-link{padding:.85rem}.contact-direct-link:first-child{max-width:100%;font-size:clamp(.9rem,4vw,1.15rem)}}

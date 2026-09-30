@@ -1,0 +1,77 @@
+{
+  "batik-ndalem-arjs": {
+    "title": "Batik nDalem ARJS",
+    "description": "Batik Ndalem ARJS is a Yogyakarta-based batik brand that brings traditional craftsmanship into a more contemporary storytelling format. Rather than presenting batik only as a product, the brand communication focused on the people, process, heritage, and character behind each piece.",
+    "image": "/assets/posters/6b9db6b2515c.webp"
+  },
+  "funactive-yogyakarta": {
+    "title": "FUNacTive Yogyakarta",
+    "description": "Funactive is a children’s activity program focused on supporting motor development through movement-based activities such as field activities, gymnastics, and aquatic programs. As part of the broader Budi Mulia education ecosystem in Yogyakarta, the brand creates active learning experiences that help children build confidence, coordination, and physical awareness.",
+    "image": "/assets/projects/10-funactive-yogyakarta/images/logo.webp"
+  },
+  "kamietiam": {
+    "title": "Kamietiam",
+    "description": "KAMIETIAM is a modern-classic kopitiam concept inspired by familiar flavors, traditional coffee culture, and the warmth of home. Built around the spirit of everyday meals and conversations, the brand brings classic kopitiam comfort into a more polished and contemporary dining experience.",
+    "image": "/assets/projects/06-kamietiam/images/kamietiam-teaser-for-menu-kamietiam-23.webp"
+  },
+  "indo-alam-resort": {
+    "title": "Indo Alam Resort & Cemara Indo Alam",
+    "description": "Indo Alam Resort is a family-friendly resort experience built around comfort, nature, and simple moments of togetherness. From rooms and outdoor spaces to leisure activities and dining, the brand offers a relaxed destination where families, couples, and groups can slow down and enjoy time away from their daily routines.",
+    "image": "/assets/projects/04-indo-alam-resort/images/indo-alam-ambience-villa-a-3.webp"
+  },
+  "fine-folks": {
+    "title": "Fine Folks",
+    "description": "Fine Folks is a modern wellness food and beverage brand built around real ingredients, bold flavors, and playful visual storytelling. Rather than presenting wellness as something strict or clinical, the brand makes healthy eating feel expressive, colorful, and part of everyday lifestyle.",
+    "image": "/assets/projects/02-fine-folks/images/angeline-fine-folks-29.webp"
+  },
+  "sidecar": {
+    "title": "Sidecar",
+    "description": "Sidecar was a coffee and eatery concept originally located alongside an automotive showroom, creating an unconventional meeting point between coffee culture and car lifestyle. The brand offered an easygoing space for coffee, light bites, and casual conversations within a setting that naturally carried an automotive character.",
+    "image": "/assets/projects/08-sidecar/images/sidecar-ambience-bar-2.webp"
+  },
+  "iolo-pizza": {
+    "title": "IoLo Pizza",
+    "description": "IOLO Pizza is a casual pizza concept within the Coarse & Fine ecosystem, created to bring a more social, shareable food experience into the coffee shop environment. Built around familiar flavors with a playful edge, IOLO extends the idea of a coffee visit into something more complete—where pizza, coffee, and conversation can naturally live on the same table.",
+    "image": "/assets/projects/03-iolo-pizza/images/iolo-pizza-party-days-139.webp"
+  },
+  "setria-group": {
+    "title": "Setria Group",
+    "description": "Setria Group is an F&B business consulting company that helps brands build stronger connections between operations, service, people, menu, and communication. Rather than approaching F&B as separate departments, Setria focuses on creating a more coherent business system from the inside out.",
+    "image": "/assets/projects/07-setria-group/images/img-0809.webp"
+  },
+  "bigjava": {
+    "title": "Bigjava",
+    "description": "Bigjava is a technology company working across big data and IT-driven solutions for large-scale institutional projects. The work involved complex information environments where reliability, confidentiality, and structured data systems were central to the project.",
+    "image": "/assets/projects/09-bigjava/images/bigjava-1.webp"
+  },
+  "setria-creative": {
+    "title": "Setria Creative",
+    "description": "Setria Creative is the creative arm within the Setria ecosystem, focused on helping F&B brands shape how they look, communicate, and present their products. Its work spans branding, content production, social media, and menu photography, connecting strategy with visual execution.",
+    "image": "/assets/projects/08-setria-creative/images/setria-creative-01.webp"
+  },
+  "machimoto": {
+    "title": "Machimoto",
+    "description": "Machimoto is a Japanese-inspired café and dining concept built around clean design, familiar comfort food, and a relaxed family-friendly atmosphere. The menu brings together Japanese staples such as onigiri, udon, and bento alongside matcha, coffee, and kombucha, creating a space that works equally well for casual dining, coffee breaks, and family time.",
+    "image": "/assets/projects/07-machimoto/images/machimoto-image.webp"
+  },
+  "laus-kopi": {
+    "title": "Laus Kopi",
+    "description": "Laus Kopi is a coffee and dining brand that balances traditional coffee shop warmth with playful, internet-driven content. The brand carries two distinct voices: one rooted in familiar, vintage, homemade comfort, and another shaped by meme culture, casual humor, and everyday customer behavior.",
+    "image": "/assets/projects/05-laus-kopi/images/laus-ambience-laus-setiabudi.webp"
+  },
+  "kemedis": {
+    "title": "Kemedis",
+    "description": "Kemedis is a healthcare management solution based in Yogyakarta, focused on providing trusted Electronic Medical Records (EMR/RME) for healthcare facilities. Developed by clinicians and technology experts with more than 15 years of experience, Kemedis combines healthcare knowledge with reliable digital infrastructure to support more efficient and higher-quality medical services.",
+    "image": "/assets/projects/11-kemedis/images/kemedis-01.webp"
+  },
+  "denns-sambal": {
+    "title": "Denn's Sambal",
+    "description": "Deens Sambal is a local Yogyakarta UMKM food product that became the subject of a short-form cinematic campaign. Instead of relying on conventional product promotion, the project used storytelling and short-film language to create a more memorable way of introducing the brand and product.",
+    "image": "/assets/posters/c6bcba48ddd9.webp"
+  },
+  "coarse-and-fine": {
+    "title": "Coarse & Fine",
+    "description": "Coarse & Fine is a neighborhood specialty coffee shop under Satria Group, built around thoughtfully crafted coffee and beans roasted in-house. For nearly a decade, it has become a familiar part of its communities in Alam Sutera and Ubud, Bali—creating spaces where good coffee naturally becomes part of everyday routines.",
+    "image": "/assets/projects/01-coarse-and-fine/images/cover.webp"
+  }
+}

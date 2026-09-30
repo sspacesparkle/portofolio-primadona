@@ -11,10 +11,10 @@ export async function generateMetadata(): Promise<Metadata> {
   const origin = `${host.startsWith("localhost") ? "http" : "https"}://${host}`;
   const title = "Dedharya — Social Media & Creative";
   const description = "Creative digital portfolio of Dedharya Immanuella Wardjanan, a Social Media Specialist, Content Strategist, and Creative Thinker based in Jakarta.";
-  const images = [`${origin}/og.png`];
+  const images = [`${origin}/assets/projects/01-coarse-and-fine/images/cover.webp`];
   return { title, description, openGraph: { title, description, images }, twitter: { card: "summary_large_image", title, description, images } };
 }
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return <html lang="en"><body className={`${sans.variable} ${mono.variable}`}>{children}</body></html>;
+  return <html lang="en"><body className={`${sans.variable} ${mono.variable}`}><a className="skip-link" href="#main">Skip to content</a>{children}</body></html>;
 }

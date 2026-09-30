@@ -1,0 +1,43 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * elza:
+ *   - http://typekit.com/eulas/00000000000000007735f907
+ *   - http://typekit.com/eulas/00000000000000007735f911
+ *   - http://typekit.com/eulas/00000000000000007735f914
+ *   - http://typekit.com/eulas/00000000000000007735f910
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2026-02-26 17:12:00 UTC"}*/
+
+
+
+@font-face {
+font-family:"elza";
+src:url("/assets/fonts/eaf8ff0a80-l.woff2") format("woff2"),url("/assets/fonts/d56983f6cd-d.woff2") format("woff"),url("/assets/fonts/6a783b9f86-a.woff2") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"elza";
+src:url("/assets/fonts/1b26b39e13-l.woff2") format("woff2"),url("/assets/fonts/97d8094e47-d.woff2") format("woff"),url("/assets/fonts/c2f6f64d3c-a.woff2") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"elza";
+src:url("/assets/fonts/39a3336ada-l.woff2") format("woff2"),url("/assets/fonts/608838d750-d.woff2") format("woff"),url("/assets/fonts/7c159d0b6e-a.woff2") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"elza";
+src:url("/assets/fonts/99c21b5c1b-l.woff2") format("woff2"),url("/assets/fonts/2f9e923724-d.woff2") format("woff"),url("/assets/fonts/85d77e9051-a.woff2") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-elza { font-family: "elza",sans-serif; }
