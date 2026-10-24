@@ -12,7 +12,7 @@ export async function generateMetadata(): Promise<Metadata> {
   const title = "Dedharya — Social Media & Creative";
   const description = "Creative digital portfolio of Dedharya Immanuella Wardjanan, a Social Media Specialist, Content Strategist, and Creative Thinker based in Jakarta.";
   const images = [`${origin}/assets/projects/01-coarse-and-fine/images/cover.webp`];
-  return { title, description, icons: { icon: "/assets/dw-icon.png", shortcut: "/assets/dw-icon.png", apple: "/assets/dw-apple-touch.png" }, openGraph: { title, description, images }, twitter: { card: "summary_large_image", title, description, images } };
+  return { title, description, icons: { icon: "/favicon.ico?v=naey-6d530671644a", shortcut: "/favicon.ico?v=naey-6d530671644a", apple: "/apple-touch-icon.png" }, openGraph: { title, description, images }, twitter: { card: "summary_large_image", title, description, images } };
 }
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
