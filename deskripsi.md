@@ -236,13 +236,13 @@ Internal Communication
 Project Documentation Support
 
 
-Deens Sambal
+Deen's Sambal
 Idea
-Deens Sambal is a local Yogyakarta UMKM food product that became the subject of a short-form cinematic campaign. Instead of relying on conventional product promotion, the project used storytelling and short-film language to create a more memorable way of introducing the brand and product.
+Deen's Sambal is a local Yogyakarta UMKM food product that became the subject of a short-form cinematic campaign. Instead of relying on conventional product promotion, the project used storytelling and short-film language to create a more memorable way of introducing the brand and product.
 Insight
 The opportunity was to move the product away from straightforward promotional content and build a story around it. Through scripting, talent, production, and editing, the sambal became part of a narrative rather than simply appearing as a product placement, giving the campaign more emotional and entertainment value.
 Client
-Deens Sambal
+Deen's Sambal
 Industry
 F&B / FMCG / Local UMKM
 Location

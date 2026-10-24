@@ -39,7 +39,7 @@ pages = {
     "setria-creative": ["Setria Creative"],
     "funactive-yogyakarta": ["Funactive"],
     "bigjava": ["Bigjava"],
-    "denns-sambal": ["Deens Sambal"],
+    "denns-sambal": ["Deen's Sambal"],
     "batik-ndalem-arjs": ["Batik Ndalem ARJS"],
     "kemedis": ["Kemedis"],
 }

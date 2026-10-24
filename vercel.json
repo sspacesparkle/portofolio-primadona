@@ -6,10 +6,36 @@
   "outputDirectory": "public",
   "cleanUrls": false,
   "rewrites": [
-    { "source": "/", "destination": "/reference.html" },
-    { "source": "/work", "destination": "/work-reference.html" },
-    { "source": "/info", "destination": "/info-reference.html" },
-    { "source": "/contact", "destination": "/contact-reference.html" },
-    { "source": "/work/:slug", "destination": "/work-:slug-reference.html" }
+    {
+      "source": "/",
+      "destination": "/reference.html"
+    },
+    {
+      "source": "/work",
+      "destination": "/work-reference.html"
+    },
+    {
+      "source": "/info",
+      "destination": "/info-reference.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/contact-reference.html"
+    },
+    {
+      "source": "/work/:slug",
+      "destination": "/work-:slug-reference.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/assets/vendor/:path*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
   ]
 }

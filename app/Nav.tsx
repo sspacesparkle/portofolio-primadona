@@ -16,7 +16,7 @@ export function Nav({ active }: { active: Page }) {
       <div className="nav-links">
         {links.map(([key, href, label]) => <Link className={active === key ? "active" : ""} href={href} key={key}>{label}</Link>)}
       </div>
-      <a className="nav-cta" href="mailto:dedharyaiw21@gmail.com">Let’s talk ↗</a>
+      <a className="nav-cta" href="mailto:dedharyaa@gmail.com">Let’s talk ↗</a>
     </nav>
   );
 }

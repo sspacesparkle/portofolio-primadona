@@ -43,3 +43,6 @@ yarn-error.log*
 /update/
 /asset-audit.json
 /browser-audit.json
+
+# Local Sites configuration
+.openai/
